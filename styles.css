@@ -65,6 +65,11 @@ body::after {
   text-transform: uppercase;
 }
 
+.blog-link {
+  color: #78f0e6;
+  text-underline-offset: 0.25em;
+}
+
 h1 {
   max-width: 11ch;
   margin: 0;
